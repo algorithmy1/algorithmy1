@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Abdallah Terrab - Data Engineer and Data Architect" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
+  <img src="./assets/profile-banner.svg" alt="Abdallah Terrab - Data Engineer and Data Architect" width="100%">
+</picture>
 
 I build data platforms and intelligent products that connect reliable pipelines,
 clear architecture, useful interfaces, and operational reality.
